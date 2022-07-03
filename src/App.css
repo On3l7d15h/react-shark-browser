@@ -1,0 +1,35 @@
+@import url('http://fonts.cdnfonts.com/css/google-sans');
+
+.App
+{
+  background: rgb(30, 144, 255);
+  font-family: 'Product Sans Medium', sans-serif;
+}
+
+  .App h1
+  {
+    font-size: 3.125rem;
+    color: rgb(255, 255, 255);
+  }
+
+  .App button
+  {
+    outline: 0;
+    border: 0;
+    background:rgb(16, 88, 159);
+  }
+
+  .App input
+  {
+    outline: 0;
+    border: 0;
+    font-family: 'Product Sans Regular', sans-serif;
+    color:rgb(16, 88, 159);
+  }
+
+  .App p
+  {
+    font-family: 'Product Sans Regular', sans-serif;
+    color:rgb(159, 207, 255);
+    font-size: 1.063rem;
+  }
